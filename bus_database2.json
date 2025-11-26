@@ -1,0 +1,366 @@
+{
+    "2025-11-19": {
+        "A": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "B": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "C": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "D": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "E": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "F": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "G": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "H": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "I": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "J": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        }
+    },
+    "2025-11-20": {
+        "A": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "B": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "C": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "D": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "E": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "F": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "G": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "H": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "I": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "J": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        }
+    },
+    "2025-11-21": {
+        "A": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "B": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "C": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "D": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "E": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "F": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "G": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "H": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "I": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "J": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        }
+    },
+    "2025-11-22": {
+        "A": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "B": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "C": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "D": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "E": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "F": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "G": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "H": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "I": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "J": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        }
+    },
+    "2025-11-24": {
+        "A": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "B": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "C": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "D": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "E": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "F": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "G": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "H": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "I": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "J": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        }
+    },
+    "2025-11-25": {
+        "A": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "B": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "C": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "D": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "E": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "F": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "G": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "H": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "I": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "J": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        }
+    },
+    "2025-11-26": {
+        "A": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "B": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "C": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "D": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "E": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "F": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "G": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "H": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "I": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        },
+        "J": {
+            "status": "available",
+            "customer": null,
+            "booking_id": null
+        }
+    }
+}
